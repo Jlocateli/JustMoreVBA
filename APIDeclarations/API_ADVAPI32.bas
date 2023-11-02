@@ -1,4 +1,3 @@
-3
 Option Explicit
 Option Private Module
 
